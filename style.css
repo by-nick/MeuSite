@@ -1,5 +1,5 @@
 @charset "UTF-8";
 body{
-    background: white url('img/fundo_grid') center center no-repeat fixed;
+    background: white url('img/fundo.jpg') center center  fixed;
     background-size: cover;
 }
