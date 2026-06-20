@@ -1,4 +1,9 @@
 @charset "UTF-8";
+/*efeito de rolagem suave na pagina*/
+html{
+    scroll-behavior: smooth;
+    scroll-snap-stop: 70px;
+}
 body{
     background: white url('img/pattern002.png') center center  fixed;
     background-size: cover;
