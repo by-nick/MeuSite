@@ -7,4 +7,8 @@ html{
 body{
     background: white url('img/pattern002.png') center center  fixed;
     background-size: cover;
+    font-family: barrio;
+}
+header{
+
 }
